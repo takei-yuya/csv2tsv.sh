@@ -1,0 +1,22 @@
+"0foo,
+0foo",0bar,0baz
+1 foo,1  bar,"1baz"
+"2foo,2foo",2bar,2baz
+"""3for",3bar,"3baz"""
+4foo,"4bar""bar",4b	az
+5foo,"5bar
+5bar",5baz
+"6foo
+6foo,6foo
+6foo,6foo",6bar,6baz
+"7foo
+7foo
+7foo
+","
+
+""7bar""
+
+","
+7baz"
+"",8bar,
+,,
